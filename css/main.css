@@ -739,8 +739,9 @@ button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
-	background: #313131;
+	background: #ff0077;
 	color: #ffffff;
+	
 }
 .button.button-primary:hover,
 a.button.button-primary:hover,
@@ -1608,9 +1609,9 @@ header {
 	margin-left: -30px;
 }
 .intro-info img {
-	height: 20rem;
-	width: 20rem;
-	border-radius: 50%;
+	height: 25rem;
+	width: 25rem;
+	border-radius: none;
 	margin: .9rem 0 0 0;
 	float: left;
 }
